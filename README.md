@@ -1,16 +1,46 @@
 ## Hi there 👋
+# 👋 Hola, soy Juan Glez
 
-<!--
-**jjglezsau09/jjglezsau09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst en formación  
+📊 Apasionado por el análisis de datos y la toma de decisiones  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+- Actualmente en transición a Data Analyst  
+- Experiencia analizando información operativa  
+- Enfocado en generar insights con datos  
+
+---
+
+## 🛠️ Habilidades
+
+- Excel  
+- SQL (en proceso)  
+- Power BI (en proceso)  
+- Análisis de datos  
+- Visualización de datos  
+
+---
+
+## 📂 Proyectos
+
+🚧 Actualmente desarrollando proyectos de:
+
+- Análisis de ventas  
+- Dashboards en Power BI  
+- Consultas SQL  
+
+---
+
+## 📊 Objetivo
+
+Convertirme en Data Analyst profesional y aportar valor a empresas mediante el análisis de datos.
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: www.linkedin.com/in/jjglezsau09
+
