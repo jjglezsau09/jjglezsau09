@@ -26,13 +26,7 @@
 
 ## 📂 Proyectos
 
-🚧 Actualmente desarrollando proyectos de:
-
-- Análisis de ventas  
-- Dashboards en Power BI  
-- Consultas SQL  
-
----
+🔹 [📊 Análisis de Mercado de Vehículos](https://github.com/jjglezsau09/proyecto-s7-cohort-76)
 
 ## 📊 Objetivo
 
