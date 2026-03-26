@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hola, soy Juan Glez
 
 🎯 Data Analyst en formación  
