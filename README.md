@@ -26,6 +26,7 @@
 ## 📂 Proyectos
 
 🔹 [📊 Análisis de Mercado de Vehículos](https://github.com/jjglezsau09/proyecto-s7-cohort-76)
+🔹 [📊 video_game_analysis] (https://github.com/jjglezsau09/video-game-analysis.git)
 
 ## 📊 Objetivo
 
